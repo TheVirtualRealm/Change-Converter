@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Change converter", "Change converter\Change converter.pyproj", "{97F4AF23-33A7-47BC-A5AD-3536E7B7D986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F4AF23-33A7-47BC-A5AD-3536E7B7D986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F4AF23-33A7-47BC-A5AD-3536E7B7D986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B92E92-7C4A-4EED-A3E7-F8180E26377A}
+	EndGlobalSection
+EndGlobal
